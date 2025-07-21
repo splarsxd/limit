@@ -1,2 +1,1 @@
-# limit
-Limit is a free program to check your internet speeds.
+Limit is a free open source program to monitor your internet speeds accurately.
